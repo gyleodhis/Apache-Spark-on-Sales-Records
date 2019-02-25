@@ -1,5 +1,5 @@
 # Apache-Spark-on-Sales-Records
-In this project I use Apache Spark 2.0 to analyze sales records containing some 1.5 million records.
+In this project I use Apache Spark 2.4 to analyze sales records containing some 1.5 million records.
 
 ## Technology
 (The details on how to install the following softwares is regarded as outside the scope of this scope of this tutorial.
