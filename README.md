@@ -10,6 +10,10 @@ The user is thus assumed to have them already configured in their local machines
 ##### Pandas
 ##### Matplotlib
 
+## Data
+Due to Github space limitations quota, the original sales data has not been aploaded to this repository.
+Am currently finding other ways on how to make the data available.
+
 ## Contributing
 Submit a pull request.
 
