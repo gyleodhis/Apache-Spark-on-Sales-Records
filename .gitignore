@@ -1,0 +1,11 @@
+# Huge Dataset ignoring
+data/1500000 Sales Records.csv
+
+# Metastore_db ignoring
+metastore_db/
+
+# IPython notebook checkpoints
+.ipynb_checkpoints/
+
+# logs
+*.log
